@@ -1,0 +1,15 @@
+img {
+    width: 500px;
+    height: 500px;
+}
+
+hr {
+    color: red;
+    width: 90%;
+    height: 15px;
+    background-color: blue;
+}
+
+div {
+    margin-bottom: 20px;
+}
